@@ -1,3 +1,4 @@
+---
 title: "Quem atualiza o site do seu cartório? A importância da gestão contínua das informações digitais"
 seo_title: "Quem atualiza o site do seu cartório?"
 slug: "quem-atualiza-o-site-do-seu-cartorio-a-importancia-da-gestao-continua-das-informacoes-digitais"
